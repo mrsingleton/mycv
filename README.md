@@ -1,2 +1,2 @@
-# mycv
-My curriculum vitae
+# singletoncv
+Singleton curriculum vitae
